@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "maysa gharehgozli"
-  avatar           : "\Users\Maysa\Downloads\Photo.jpg"
+  avatar           : "/assets/images/photo.jpg"
   bio              : I'm a student 
   location         : "تهران"
   email            : maysagharehgozli@gmail.com
